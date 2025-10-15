@@ -1,7 +1,7 @@
 
 /* script.js — galerie + upload Cloudinary (unsigned) */
 /* CONFIG — pune aici valorile furnizate */
-const cloudName = "e816c7ab-17da-4dad-860e-10fdca321dac"; // PID furnizat
+const cloudName = "dwbbhet1h"; // PID furnizat
 const unsignedUploadPreset = "CununieAlexaEdi"; // upload preset furnizat
 
 /* galerie initiala (daca adaugi poze manual in repo, pune URL-urile aici) */
